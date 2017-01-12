@@ -1,0 +1,10 @@
+{
+  "name": "eslint-preset-airbnb-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas Grainger <tagrain@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint-config-airbnb-base": "^11"
+  }
+}
